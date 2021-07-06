@@ -18,13 +18,13 @@ console.log (filtro) */
 
 
 // part.03
-/* var algorismos= [1,5,47,81,2,4]
+var algorismos= [1,5,9,3,7]
 var resultado = algorismos.reduce(
     function(acumulador,numero){
         return acumulador +'-'+numero
     }
 )
-console.log(resultado) */
+console.log(resultado)
 
 
 // part.04
